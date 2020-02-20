@@ -1,4 +1,4 @@
-public class Variables {
+public class Variables { // 변수
     public static void main(String args[]){
         int age; // 변수 선언
         age = 24;

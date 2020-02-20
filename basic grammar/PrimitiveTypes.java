@@ -1,4 +1,4 @@
-public class PrimitiveTypes {
+public class PrimitiveTypes { // 기본 자료형
     public static void main(String args[]){
 
         // 숫자형(정수형: int, long / 소수형: float, double)
